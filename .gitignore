@@ -364,3 +364,5 @@ FodyWeavers.xsd
 /asynchronous-API-request-encryption/as.py
 /public_key.pem
 /private_key.pem
+/public_key_rsa.pem
+/private_key_rsa.pem
