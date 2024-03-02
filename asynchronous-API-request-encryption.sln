@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "asynchronous-API-request-encryption", "asynchronous-API-request-encryption\asynchronous-API-request-encryption.pyproj", "{73F583B1-E9CA-4C02-9E27-D7A9CC74210A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73F583B1-E9CA-4C02-9E27-D7A9CC74210A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73F583B1-E9CA-4C02-9E27-D7A9CC74210A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0957CB1-2031-4195-AEDB-1B2770D0636A}
+	EndGlobalSection
+EndGlobal
